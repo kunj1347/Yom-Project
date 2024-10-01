@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kunj Savaliya\\source\\repos\\testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20A4BF9C-AC07-441F-9531-F26709244FB1}|testing.csproj|c:\\users\\kunj savaliya\\source\\repos\\testing\\models\\commentsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20A4BF9C-AC07-441F-9531-F26709244FB1}|testing.csproj|solutionrelative:models\\commentsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20A4BF9C-AC07-441F-9531-F26709244FB1}|testing.csproj|c:\\users\\kunj savaliya\\source\\repos\\testing\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{20A4BF9C-AC07-441F-9531-F26709244FB1}|testing.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommentsModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kunj Savaliya\\source\\repos\\testing\\Models\\CommentsModel.cs",
+              "RelativeDocumentMoniker": "Models\\CommentsModel.cs",
+              "ToolTip": "C:\\Users\\Kunj Savaliya\\source\\repos\\testing\\Models\\CommentsModel.cs",
+              "RelativeToolTip": "Models\\CommentsModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T08:44:45.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kunj Savaliya\\source\\repos\\testing\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Kunj Savaliya\\source\\repos\\testing\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-03T04:54:24.078Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
